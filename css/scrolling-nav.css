@@ -893,3 +893,7 @@ color: white;
   color: white;
   transition: all .5s ease-in-out;
 }
+#emailme{
+  text-decoration: none;
+  color: white;
+}
